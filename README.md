@@ -13,7 +13,25 @@ Email: Phapawarin.n@kkumail.com
 
 
 ***
-# Final Project — Role
+---
+# Assignment
+**Personal Assignment
+| Assignment | Link |
+|---|---|
+| essay about Network | https://docs.google.com/document/d/1EI2V5bklOT56Gf3BqwOrnQydKOl_oWSXNl1QdFi0Olc/edit?usp=sharing |
+| Assignment2 | https://docs.google.com/document/d/1TU5EhW5KmRL1pVT2Bk6N1YJFkaWluKw2smY29mtds0s/edit?usp=sharing |
+| Assignment3 | https://docs.google.com/document/d/1glMx3-w7vsgxyVOjbfXjpsWS6hd_p3iKoQQpJu9KDiQ/edit?usp=sharing |
+| Assignment4 | https://docs.google.com/document/d/1fdChAtUpHH3HYqUl6vMbxbwgrtlJF6dd8tTZFdVhWWQ/edit?usp=sharing |
+**Lab 1-5
+| Lab | Link |
+|---|---|
+| Lab 1: Complete Lab-Focused Teaching Package | https://docs.google.com/document/d/1vtYlqgI2a4dl8QZcOM_5dX60jl6MhDn5w2cXu4fyqHA/edit?usp=sharing |
+| Lab 2: Secure & Scalable VLAN Design (Router-on-a-Stick) | https://docs.google.com/document/d/1om_9G98FlEn59QgyA8rxmZpEz1ys2JRl5T8UrRHiEac/edit?usp=sharing |
+| Lab 3: MIME File Transfer over Router-on-a-Stick with Wireshark Analysis | https://docs.google.com/document/d/1nlxIK_lX2oP6NwvAXjeYUols5mv-GYe2VFN2yb5yuWk/edit?usp=sharing |
+| Lab 4: Simulated Internet & Private LANs with Stateful vs Stateless Services | https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing |
+| Lab 5: Internet Edge + ISP Serial WAN + Week03 Microservices | https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing |
+---
+# Final Project — Role การมีส่วนร่วมในการทำงาน
 
 > **วิชา:** Computer Networks (Undergraduate)  
 > **ตำแหน่ง:** Network Engineer  
@@ -22,7 +40,7 @@ Email: Phapawarin.n@kkumail.com
 Link to project : https://github.com/Nattha-nan/High-Mountain-Network.git
 ---
 
-## 👤 งานที่รับผิดชอบ
+## งานที่รับผิดชอบ
 
 ในฐานะ Network Engineer ของกลุ่ม รับผิดชอบงานหลัก 5 ด้าน:
 
@@ -33,6 +51,7 @@ Link to project : https://github.com/Nattha-nan/High-Mountain-Network.git
 5. **สร้าง AI Monitoring Script** — ตรวจจับ anomaly อัตโนมัติ สำหรับ monitoring การทำงานของเครือข่าย
 
 ---
+# Extra Detail
 
 ##  Network Topology ที่ออกแบบ
 
