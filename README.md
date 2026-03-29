@@ -35,6 +35,11 @@ Email: Phapawarin.n@kkumail.com
 | Lab 4: Simulated Internet & Private LANs with Stateful vs Stateless Services | https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing |
 | Lab 5: Internet Edge + ISP Serial WAN + Week03 Microservices | https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing |
 ---
+# Certificate
+![Getting Started with cisco packet tracer](docs/cert1.png)
+
+
+---
 # Final Project — Role การมีส่วนร่วมในการทำงาน
 
 > **วิชา:** Computer Networks (Undergraduate)  
