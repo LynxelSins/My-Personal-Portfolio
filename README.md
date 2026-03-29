@@ -26,11 +26,11 @@ Link to project : https://github.com/Nattha-nan/High-Mountain-Network.git
 
 ในฐานะ Network Engineer ของกลุ่ม รับผิดชอบงานหลัก 5 ด้าน:
 
-1. **ออกแบบ Network Topology** — วางโครงสร้าง 13 nodes, 5 networks, 3 ชั้น
+1. **ออกแบบ Network Topology** — วางโครงสร้าง 13 nodes, 5 networks, 3 ชั้นตามที่ Architect ออกแบบไว้ สำหรับการสร้างโดย container
 2. **Implement DTN (Delay-Tolerant Networking)** — เขียน store-and-forward logic ใน Python
 3. **Implement QoS Priority Queue** — จัดลำดับ traffic ตามความสำคัญ
-4. **Implement Energy Simulation** — จำลองพฤติกรรมเครือข่ายเมื่อพลังงานต่ำ
-5. **สร้าง AI Monitoring Script** — ตรวจจับ anomaly อัตโนมัติ
+4. **Implement Energy Simulation** — จำลองพฤติกรรมเครือข่ายเมื่อพลังงานต่ำในไฟล์ app.py
+5. **สร้าง AI Monitoring Script** — ตรวจจับ anomaly อัตโนมัติ สำหรับ monitoring การทำงานของเครือข่าย
 
 ---
 
@@ -194,17 +194,6 @@ def detect_anomalies(results: list) -> list:
     return anomalies
 ```
 
----
-
-## 🧪 ผลการทดสอบ
-
-| Test | คำสั่งที่ใช้ | ผลที่ได้ | ผล |
-|---|---|---|---|
-| Normal Operation | ส่ง normal จาก village-a → relay-north | `delivered` | ✅ PASS |
-| Mesh Redundancy | ตัด 1 เส้น แล้วส่ง | `delivered` ผ่านเส้นสำรอง | ✅ PASS |
-| DTN Store-and-Forward | ตัด 2 เส้น → ส่ง → ต่อกลับ | `queued` → retry อัตโนมัติ | ✅ PASS |
-| Power Degradation | set energy 15% → ส่ง normal | `rejected` อัตโนมัติ | ✅ PASS |
-| QoS Priority | ส่ง normal→telemetry→emergency เข้า queue | emergency ถึงปลายทางก่อน | ✅ PASS |
 
 ---
 
