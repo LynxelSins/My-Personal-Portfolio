@@ -1,0 +1,11 @@
+[2026-03-29 22:26:01] [INFO] Helpdesk Chat Server started on 127.0.0.1:5001
+[2026-03-29 22:26:01] [INFO] Mode: Threaded (concurrent)
+[2026-03-29 22:26:01] [INFO] Press Ctrl+C to stop the server.
+[2026-03-29 22:26:01] [INFO] Waiting for next client...
+[2026-03-29 22:26:50] [INFO] Client #1 accepted from ('127.0.0.1', 51669)
+[2026-03-29 22:26:50] [INFO] New client connected: ('127.0.0.1', 51669)
+[2026-03-29 22:26:50] [INFO] Thread Client-1 started
+[2026-03-29 22:26:50] [INFO] Waiting for next client...
+[2026-03-29 22:26:56] [INFO] Message from ('127.0.0.1', 51669): Hello
+[2026-03-29 22:27:26] [WARN] Client ('127.0.0.1', 51669) timed out after 30s
+[2026-03-29 22:27:26] [INFO] Connection with ('127.0.0.1', 51669) closed

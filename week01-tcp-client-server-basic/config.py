@@ -1,0 +1,6 @@
+# config.py
+HOST = "127.0.0.1"
+PORT = 5001
+BUFFER_SIZE = 1024
+MAX_CLIENTS = 10
+TIMEOUT = 30  # seconds
